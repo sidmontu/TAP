@@ -1,7 +1,7 @@
 # TAP
 
-### uTAP
-Microprocessor
+### TAPμP
+μProcessor
 
 ### TAPOS
 TAP Operating System
